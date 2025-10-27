@@ -144,3 +144,54 @@ These requirements ensure the system not only works but performs **efficiently, 
 ---
 
 > Together, **functional** and **non-functional requirements** define both the *capabilities* and the *quality* of a software product — ensuring it delivers real value to users and meets project goals. 💡
+
+
+
+## 🎨 Use Case Diagrams
+
+### 🔍 What is a Use Case Diagram?
+A **Use Case Diagram** is a visual representation of the interactions between **users (actors)** and a **system**.  
+It helps show **what the system should do** from the user’s point of view, rather than how it’s implemented.  
+
+Use case diagrams are part of the **Unified Modeling Language (UML)** and are commonly used during the **Requirement Analysis** phase to capture system functionality clearly.
+
+---
+
+### 💡 Benefits of Use Case Diagrams
+- **Simplifies understanding:** Provides a clear overview of how users interact with the system.  
+- **Improves communication:** Helps developers, designers, and stakeholders stay on the same page.  
+- **Identifies missing requirements:** Makes it easier to spot functionalities that might have been overlooked.  
+- **Serves as a reference:** Guides design, development, and testing teams throughout the SDLC.
+
+---
+
+### 🧠 Use Case Diagram for the Booking Management System
+
+Below is the use case diagram showing the main actors and their interactions with the system.
+
+#### 👥 Actors
+- **Customer:** Books, cancels, and views reservations.  
+- **Admin:** Manages room listings, availability, and user bookings.  
+- **System:** Handles authentication, payments, and notifications.
+
+#### 🎯 Use Cases
+- Create Account / Login  
+- Search for Rooms  
+- Make a Booking  
+- Cancel Booking  <img width="1536" height="1024" alt="alx-booking-uc" src="https://github.com/user-attachments/assets/e972be3c-5e73-4503-9cfb-02717fac5dc6" />
+
+- Manage Bookings (Admin)  
+- Update Room Details (Admin)  
+- Receive Notifications  
+
+---
+
+### 🖼️ Use Case Diagram
+![Booking Management System Use Case Diagram](alx-booking-uc.png)
+
+---
+
+> 🧩 This diagram was created using **[draw.io](https://app.diagrams.net/)** and exported as a `.png` file named **alx-booking-uc.png**.
+>  
+> It visually represents how customers and admins interact with the booking system to perform different tasks.
+
