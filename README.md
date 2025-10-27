@@ -63,3 +63,39 @@ When the requirements are well understood, developers can design and implement s
 
 > In short, strong requirement analysis = fewer surprises, smoother development, and happier users 🎯
 
+
+
+## 🛠️ Key Activities in Requirement Analysis
+
+Requirement Analysis involves several key activities that help teams fully understand what a software system should do and how it should perform.  
+Each activity contributes to ensuring that the final product meets the users’ needs and business goals.
+
+### 🔹 1. Requirement Gathering
+- This is the **first step**, where information about the system’s needs is collected from stakeholders, clients, and users.  
+- Methods include **interviews, surveys, questionnaires, observations**, and studying existing systems.  
+- Goal: To collect as much relevant information as possible before analysis begins.
+
+### 🔹 2. Requirement Elicitation
+- Elicitation focuses on **drawing out** the actual needs of users — even those they might not explicitly state.  
+- It involves understanding the **why** behind each requirement.  
+- Techniques include **workshops, brainstorming sessions, use cases, and prototyping**.
+
+### 🔹 3. Requirement Documentation
+- Once gathered, all requirements are recorded in a structured format — often in a **Software Requirement Specification (SRS)** document.  
+- This ensures clarity, consistency, and serves as a reference for designers, developers, and testers.  
+- Goal: To make sure everyone has a **single source of truth** for the project’s requirements.
+
+### 🔹 4. Requirement Analysis and Modeling
+- Here, the collected requirements are **analyzed, categorized, and visualized** using models or diagrams.  
+- Common tools: **Flowcharts, Data Flow Diagrams (DFDs), and UML models**.  
+- This step helps identify dependencies, conflicts, or missing requirements early on.
+
+### 🔹 5. Requirement Validation
+- This is the **final check** to ensure that the documented requirements truly represent stakeholder needs.  
+- Teams review and confirm requirements with clients to verify **accuracy, feasibility, and completeness**.  
+- Validation ensures that the software being developed aligns perfectly with business goals.
+
+---
+
+> Together, these five activities form the backbone of a successful requirement analysis phase — helping teams build software that’s well-planned, accurate, and user-centered 💡
+
