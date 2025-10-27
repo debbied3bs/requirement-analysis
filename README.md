@@ -189,6 +189,45 @@ Below is the use case diagram showing the main actors and their interactions wit
 ### 🖼️ Use Case Diagram
 ![Booking Management System Use Case Diagram](alx-booking-uc)
 
+
+
+## ✅ Acceptance Criteria
+
+### 🧠 What are Acceptance Criteria?
+**Acceptance Criteria** are the specific conditions or statements that define **when a feature or requirement is considered complete and successful**.  
+They act as a checklist for developers, testers, and stakeholders to ensure that the implemented feature meets user expectations and business goals.
+
+Acceptance Criteria are written in **clear, testable, and measurable** terms so everyone knows what “done” looks like.
+
+---
+
+### 💡 Importance of Acceptance Criteria in Requirement Analysis
+- **Clarity:** Ensures everyone (developers, clients, and testers) understands exactly what is expected.  
+- **Scope Control:** Prevents unnecessary features or changes by defining the limits of each requirement.  
+- **Testing Basis:** Helps QA teams design test cases and confirm that the software behaves as intended.  
+- **User Satisfaction:** Guarantees that delivered features align with the user’s actual needs and expectations.  
+
+In short, Acceptance Criteria bridge the gap between **requirements** and **validation**, helping ensure high-quality, goal-driven outcomes.
+
+---
+
+### 🛒 Example: Checkout Feature in a Booking Management System
+
+**Feature:** Checkout Process for Booking Payment  
+
+**Acceptance Criteria:**
+1. ✅ The user must be able to review booking details (dates, price, room type) before checkout.  
+2. ✅ The system should allow the user to choose a payment method (credit card, mobile payment, or PayPal).  
+3. ✅ Once payment is confirmed, the system should generate a **booking confirmation** and send it via email.  
+4. ✅ If payment fails, the user should receive a **clear error message** and be able to retry or select another method.  
+5. ✅ The transaction must be **secure** and processed over HTTPS.  
+6. ✅ After successful checkout, the booking should be visible in the user’s account under “My Bookings.”  
+
+---
+
+> 🎯 **Summary:** Acceptance Criteria make sure that everyone — from developers to stakeholders — agrees on what success looks like before coding even starts.
+
+
 ---
 
 > 🧩 This diagram was created using **[draw.io](https://app.diagrams.net/)** and exported as a `.png` file named **alx-booking-uc.png**.
