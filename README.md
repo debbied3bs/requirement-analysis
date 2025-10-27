@@ -187,7 +187,7 @@ Below is the use case diagram showing the main actors and their interactions wit
 ---
 
 ### 🖼️ Use Case Diagram
-![Booking Management System Use Case Diagram](alx-booking-uc.png)
+![Booking Management System Use Case Diagram](alx-booking-uc)
 
 ---
 
