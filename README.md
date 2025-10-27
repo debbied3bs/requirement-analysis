@@ -99,3 +99,48 @@ Each activity contributes to ensuring that the final product meets the users’ 
 
 > Together, these five activities form the backbone of a successful requirement analysis phase — helping teams build software that’s well-planned, accurate, and user-centered 💡
 
+
+
+## 🧩 Types of Requirements
+
+In software development, requirements are generally categorized into two main types: **Functional Requirements** and **Non-functional Requirements.**  
+Both play an essential role in ensuring the system performs as expected and provides a smooth user experience.
+
+---
+
+### ⚙️ Functional Requirements
+
+**Definition:**  
+Functional requirements describe **what the system should do** — the specific features, behaviors, or functions that define how the software operates.  
+They focus on **actions and interactions** between the system and its users.
+
+**Examples for a Booking Management System:**
+- ✅ Users can **create an account**, log in, and manage their profiles.  
+- ✅ The system allows users to **search for available rooms or bookings** by date, location, or type.  
+- ✅ Users can **book, cancel, or modify** their reservations.  
+- ✅ The system should **send confirmation emails or notifications** once a booking is made.  
+- ✅ Admins can **view all bookings**, manage availability, and update room details.
+
+These requirements define the **core operations** that make the system functional and useful.
+
+---
+
+### ⚡ Non-functional Requirements
+
+**Definition:**  
+Non-functional requirements describe **how the system should perform** rather than what it should do.  
+They define the **quality attributes** of the system — things like performance, security, usability, and reliability.
+
+**Examples for a Booking Management System:**
+- ⚡ The system should handle **at least 1,000 concurrent users** without slowing down.  
+- ⚡ All pages should **load within 3 seconds** on a stable internet connection.  
+- ⚡ The platform must be **accessible on both desktop and mobile devices**.  
+- ⚡ User data must be **encrypted and securely stored** to ensure privacy.  
+- ⚡ The system should have **99.9% uptime** to support users around the clock.  
+- ⚡ The interface should be **easy to navigate**, even for non-technical users.
+
+These requirements ensure the system not only works but performs **efficiently, securely, and reliably**.
+
+---
+
+> Together, **functional** and **non-functional requirements** define both the *capabilities* and the *quality* of a software product — ensuring it delivers real value to users and meets project goals. 💡
